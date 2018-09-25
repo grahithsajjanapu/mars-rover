@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mars-rover-problem.iml" filepath="$PROJECT_DIR$/.idea/modules/mars-rover-problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mars-rover-problem_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mars-rover-problem_main.iml" group="mars-rover-problem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mars-rover-problem_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mars-rover-problem_test.iml" group="mars-rover-problem" />
+    </modules>
+  </component>
+</project>
